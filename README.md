@@ -9,3 +9,4 @@ There are many different techniques that can be used in knowledge graphs, depend
     
  Graph embedding
  Graph embedding is a technique that represents the nodes and edges in a knowledge graph as low-dimensional vectors. The goal of graph embedding is to learn a continuous and low-dimensional representation of the nodes in a graph, in such a way that nodes that are similar in the graph are close in the embedding space. This makes it possible to perform tasks such as information retrieval, recommendation, and classification on the graph using standard machine learning techniques.
+https://relational.fit.cvut.cz/dataset/CORA
